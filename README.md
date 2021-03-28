@@ -1,6 +1,10 @@
 # food_app_v3
 
-A new Flutter application.
+Food delivery app UI with Flutter - 3 Screens, for practice ;).
+
+# Screenshots 
+
+<img src="https://github.com/Mohammed187/food_app_v3/blob/master/home_screen.png" height="500"> <img src="https://github.com/Mohammed187/food_app_v3/blob/master/restaurant_screen.png" height="500"> <img src="https://github.com/Mohammed187/food_app_v3/blob/master/cart_screen.png" height="500">
 
 ## Getting Started
 
